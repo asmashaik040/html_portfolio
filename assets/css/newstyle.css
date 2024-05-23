@@ -57,7 +57,6 @@ body {
     align-items: center;
     justify-content: center;
     position:relative;
-    height: 600px;
 }
 
 .header-text h2 {
@@ -90,7 +89,6 @@ body {
     border: 2px solid white;
 }
 
-/*main-timeline*/
 .main-timeline {
     position: relative;
     border-left: 2px solid #ffd700;
@@ -113,7 +111,7 @@ body {
     align-content: center;
     font-size: xx-large;
     padding: 5px 5px 5px 5px;
-    margin-right: 100px;
+    margin-right: 30px;
     width: 75px;
     height: 75px;
     display: inline-block;
